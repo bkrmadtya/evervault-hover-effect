@@ -1,10 +1,12 @@
 # Recreating the Evervault hover effect
 
-![Evervault hover effect](/assets/screenshot.png)
-
 ## Introduction
 
-This project is a recreation of the hover effect animation provided by the [Accentrnity](https://ui.aceternity.com). The original hover effect can be found [here](https://ui.aceternity.com/components/evervault-card)
+This project is a recreation of the hover effect animation provided by the [Accentrnity](https://ui.aceternity.com). The original hover effect can be found [here](https://ui.aceternity.com/components/evervault-card).
+
+![Evervault hover effect](/assets/screenshot.png)
+
+[Demo](https://bkrmadtya.github.io/evervault-hover-effect/)
 
 ## Tools used
 
