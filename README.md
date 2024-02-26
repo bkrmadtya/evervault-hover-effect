@@ -1,6 +1,6 @@
 # Recreating the Evervault hover effect
 
-![Evervault hover effect](/assets/evervault-hover-effect.gif)
+![Evervault hover effect](/assets/screenshot.png)
 
 ## Introduction
 
