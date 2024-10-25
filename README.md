@@ -4,7 +4,9 @@
 
 This project is a recreation of the hover effect animation provided by the [Accentrnity](https://ui.aceternity.com). The original hover effect can be found [here](https://ui.aceternity.com/components/evervault-card).
 
-![Evervault hover effect](/assets/screenshot.png)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7371fbcb-062e-4262-8b71-824af9844160" />
+</div>
 
 [Demo](https://bkrmadtya.github.io/evervault-hover-effect/)
 
