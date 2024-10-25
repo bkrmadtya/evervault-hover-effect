@@ -8,7 +8,9 @@ This project is a recreation of the hover effect animation provided by the [Acce
   <img src="https://github.com/user-attachments/assets/7371fbcb-062e-4262-8b71-824af9844160" />
 </div>
 
-[Demo](https://bkrmadtya.github.io/evervault-hover-effect/)
+<div align="center">
+  <a href="https://bkrmadtya.github.io/evervault-hover-effect/">Demo</a>
+</div>
 
 ## Tools used
 
